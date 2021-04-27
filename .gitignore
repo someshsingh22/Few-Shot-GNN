@@ -1,0 +1,11 @@
+# DS_Store for macs
+**.DS_Store
+
+# Pycache
+**__pycache__/
+
+# Ignored Folders
+**_IGNORE/
+
+# Ignored Files
+**_IGNORE.*
